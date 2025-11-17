@@ -45,14 +45,6 @@ This Leave Management System allows employees to submit leave requests and manag
 
 ---
 
-## Screenshots
-> Replace with your own screenshots of the app  
-
-| Login Screen | Dashboard | Leave Request |
-|--------------|-----------|---------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Request](screenshots/request.png) |
-
----
 
 ## Installation
 1. **Clone the repository:**
